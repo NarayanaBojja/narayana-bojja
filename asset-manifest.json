@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/narayana-bojja/static/css/main.1e0dd301.css",
-    "main.js": "/narayana-bojja/static/js/main.d083e3b8.js",
+    "main.js": "/narayana-bojja/static/js/main.5e3a64ba.js",
     "static/js/453.b0d09cb7.chunk.js": "/narayana-bojja/static/js/453.b0d09cb7.chunk.js",
     "index.html": "/narayana-bojja/index.html",
     "main.1e0dd301.css.map": "/narayana-bojja/static/css/main.1e0dd301.css.map",
-    "main.d083e3b8.js.map": "/narayana-bojja/static/js/main.d083e3b8.js.map",
+    "main.5e3a64ba.js.map": "/narayana-bojja/static/js/main.5e3a64ba.js.map",
     "453.b0d09cb7.chunk.js.map": "/narayana-bojja/static/js/453.b0d09cb7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e0dd301.css",
-    "static/js/main.d083e3b8.js"
+    "static/js/main.5e3a64ba.js"
   ]
 }
