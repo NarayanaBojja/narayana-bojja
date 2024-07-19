@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/narayana-bojja/static/css/main.1e0dd301.css",
-    "main.js": "/narayana-bojja/static/js/main.4878c43e.js",
-    "static/js/453.b0d09cb7.chunk.js": "/narayana-bojja/static/js/453.b0d09cb7.chunk.js",
-    "index.html": "/narayana-bojja/index.html",
-    "main.1e0dd301.css.map": "/narayana-bojja/static/css/main.1e0dd301.css.map",
-    "main.4878c43e.js.map": "/narayana-bojja/static/js/main.4878c43e.js.map",
-    "453.b0d09cb7.chunk.js.map": "/narayana-bojja/static/js/453.b0d09cb7.chunk.js.map"
+    "main.css": "/static/css/main.1e0dd301.css",
+    "main.js": "/static/js/main.4b4a68cf.js",
+    "static/js/453.b0d09cb7.chunk.js": "/static/js/453.b0d09cb7.chunk.js",
+    "index.html": "/index.html",
+    "main.1e0dd301.css.map": "/static/css/main.1e0dd301.css.map",
+    "main.4b4a68cf.js.map": "/static/js/main.4b4a68cf.js.map",
+    "453.b0d09cb7.chunk.js.map": "/static/js/453.b0d09cb7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e0dd301.css",
-    "static/js/main.4878c43e.js"
+    "static/js/main.4b4a68cf.js"
   ]
 }
